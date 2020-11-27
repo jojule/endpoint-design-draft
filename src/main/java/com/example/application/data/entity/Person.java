@@ -2,7 +2,6 @@ package com.example.application.data.entity;
 
 import javax.persistence.Entity;
 
-import com.example.application.data.AbstractEntity;
 import javax.validation.constraints.Email;
 import java.time.LocalDate;
 import javax.annotation.Nullable;
